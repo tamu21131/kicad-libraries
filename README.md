@@ -1,2 +1,2 @@
-# mymod.pretty
+# kicad-libraries
 KiCad用のライブラリ
